@@ -8,7 +8,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: www.cloudbyarpan.siite
+    - host: www.cloudbyarpan.siit
       http:
         paths:
           - path: "/"
